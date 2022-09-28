@@ -32,9 +32,9 @@
 |VCC|5V|
 |GND|GND|
 
-	- 1^st^ neopixel, 2^nd^ neopixel 간 연결(3^rd^, 4^th^도 동일하게 연결)
+	- 1<sup>st</sup> neopixel, 2<sup>nd</sup> neopixel 간 연결(3<sup>rd</sup>, 4<sup>th</sup>도 동일하게 연결)
 
-|1^st^ neopixel|2^nd^ neopixel|
+|1<sup>st</sup> neopixel|2<sup>nd</sup> neopixel|
 |--|--|
 |OUT|IN|
 |VCC|VCC|
